@@ -134,7 +134,7 @@ const Home = () => {
                 {project.desc}
               </p>
               <span className="mt-4 text-indigo-500 font-medium group-hover:underline text-sm">
-                View on GitHub →
+                View →
               </span>
             </motion.a>
           ))}
